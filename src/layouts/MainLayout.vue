@@ -1,7 +1,7 @@
 <template>
   <div class="root">
     <div class="row justify-center q-mb-sm">
-      <div class="text-h2">Cover Letter Writer</div>
+      <div class="text-h2">Cover Letter Editor</div>
     </div>
     <div class="row justify-center">
       <div class="caption">By oceansam</div>
