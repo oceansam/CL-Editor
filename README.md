@@ -28,4 +28,4 @@ Once you're done, simply click update cover letter and shabam new cover letter.
 
 Usage
 --
-![image](https://user-images.githubusercontent.com/56453957/143733462-dc8afef9-1e60-41ed-94b9-0ca5b3d4b9de.png)
+![image](https://user-images.githubusercontent.com/56453957/143733499-4250e316-d541-4006-888b-0203b0788541.png)
