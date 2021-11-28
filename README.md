@@ -7,7 +7,7 @@ Capish Capoosh 1am code don't roast me
 
 What is CL-Editor?
 --
-Simple, past cover letter in, change areas where you want dynamic strings and update when necessary for job applications.
+Simple, paste cover letter in, change areas where you want dynamic strings and update when necessary for job applications.
 
 How to use?
 --
@@ -26,3 +26,6 @@ Note. Duplicate occurences of a variable will provide one input but apply to all
 
 Once you're done, simply click update cover letter and shabam new cover letter.
 
+Usage
+--
+![image](https://user-images.githubusercontent.com/56453957/143733462-dc8afef9-1e60-41ed-94b9-0ca5b3d4b9de.png)
